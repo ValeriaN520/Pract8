@@ -1,0 +1,13 @@
+C:\Users\студент\source\repos\Практическая работа 8\bin\Debug\netcoreapp3.1\Практическая работа 8.exe
+C:\Users\студент\source\repos\Практическая работа 8\bin\Debug\netcoreapp3.1\Практическая работа 8.deps.json
+C:\Users\студент\source\repos\Практическая работа 8\bin\Debug\netcoreapp3.1\Практическая работа 8.runtimeconfig.json
+C:\Users\студент\source\repos\Практическая работа 8\bin\Debug\netcoreapp3.1\Практическая работа 8.runtimeconfig.dev.json
+C:\Users\студент\source\repos\Практическая работа 8\bin\Debug\netcoreapp3.1\Практическая работа 8.dll
+C:\Users\студент\source\repos\Практическая работа 8\bin\Debug\netcoreapp3.1\Практическая работа 8.pdb
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.AssemblyInfoInputs.cache
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.AssemblyInfo.cs
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.dll
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.pdb
+C:\Users\студент\source\repos\Практическая работа 8\obj\Debug\netcoreapp3.1\Практическая работа 8.genruntimeconfig.cache
